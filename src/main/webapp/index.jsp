@@ -5,7 +5,7 @@
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS BY KUSHA KUMAR</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT BY KUSHA KUMAR</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">this is new vesion code</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">this is new vesion code by me</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	
 	
